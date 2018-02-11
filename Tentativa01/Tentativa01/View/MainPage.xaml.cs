@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace Tentativa01
+namespace Tentativa01.View
 {
 	public partial class MainPage : ContentPage
 	{

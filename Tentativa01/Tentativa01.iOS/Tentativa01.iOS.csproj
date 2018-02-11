@@ -128,4 +128,10 @@
       <Name>Tentativa01</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\logoApp1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\logobitw.png" />
+  </ItemGroup>
 </Project>

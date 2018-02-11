@@ -13,7 +13,7 @@ namespace Tentativa01
 		{
 			InitializeComponent();
 
-			MainPage = new Tentativa01.MainPage();
+			MainPage = new Tentativa01.View.LoginPage();
 		}
 
 		protected override void OnStart ()
